@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Vientos</title>
+    <link href="https://gabrielgenri.github.io/Vientos/feed.xml" rel="self" />
+    <link href="https://gabrielgenri.github.io/Vientos" />
+    <updated>2024-10-02T09:08:17-03:00</updated>
+    <author>
+        <name>Gabriel Genri</name>
+    </author>
+    <id>https://gabrielgenri.github.io/Vientos</id>
+
+    <entry>
+        <title>drrre</title>
+        <author>
+            <name>Gabriel Genri</name>
+        </author>
+        <link href="https://gabrielgenri.github.io/Vientos/drrre.html"/>
+        <id>https://gabrielgenri.github.io/Vientos/drrre.html</id>
+
+        <updated>2024-10-02T09:08:17-03:00</updated>
+            <summary>
+                <![CDATA[
+                    ere er rerr rr er
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>ere er rerr rr er</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
